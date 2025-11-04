@@ -1,0 +1,88 @@
+{
+  "artists_with_genres": 486,
+  "total_genre_mentions": 1914,
+  "distinct_genres": 207,
+  "average_genres_per_artist": 3.9382716049382718,
+  "top_genres": [
+    [
+      "rock",
+      71
+    ],
+    [
+      "alternative rock",
+      63
+    ],
+    [
+      "hard rock",
+      50
+    ],
+    [
+      "pop rock",
+      20
+    ],
+    [
+      "heavy metal",
+      16
+    ],
+    [
+      "progressive rock",
+      16
+    ],
+    [
+      "rock and roll",
+      15
+    ],
+    [
+      "alternative metal",
+      13
+    ],
+    [
+      "new wave",
+      12
+    ],
+    [
+      "post-grunge",
+      11
+    ],
+    [
+      "indie rock",
+      11
+    ],
+    [
+      "blues rock",
+      11
+    ],
+    [
+      "punk rock",
+      9
+    ],
+    [
+      "pop-punk",
+      8
+    ],
+    [
+      "folk rock",
+      8
+    ],
+    [
+      "pop",
+      7
+    ],
+    [
+      "southern rock",
+      7
+    ],
+    [
+      "art rock",
+      6
+    ],
+    [
+      "soft rock",
+      6
+    ],
+    [
+      "glam metal",
+      5
+    ]
+  ]
+}
